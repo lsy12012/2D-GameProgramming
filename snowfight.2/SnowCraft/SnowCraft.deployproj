@@ -1,0 +1,122 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Import Condition="Exists('$(BDS)\bin\CodeGear.Deployment.targets')" Project="$(BDS)\bin\CodeGear.Deployment.targets"/>
+    <ProjectExtensions>
+        <ProjectFileVersion>12</ProjectFileVersion>
+    </ProjectExtensions>
+    <ItemGroup Condition="'$(Platform)'=='Android'">
+        <DeployFile Include="Android\Debug\libSnowWars.so" Condition="'$(Config)'=='Debug'">
+            <RemoteDir>SnowCraft\library\lib\armeabi\</RemoteDir>
+            <RemoteName>libSnowWars.so</RemoteName>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+            <Required>True</Required>
+        </DeployFile>
+        <DeployFile Include="res\styles.xml">
+            <RemoteDir>SnowCraft\res\values\</RemoteDir>
+            <RemoteName>styles.xml</RemoteName>
+            <Operation>0</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+        </DeployFile>
+        <DeployFile Include="Android\Release\libSnowCraft.so" Condition="'$(Config)'=='Release'">
+            <RemoteDir>SnowCraft\library\lib\armeabi\</RemoteDir>
+            <RemoteName>libSnowCraft.so</RemoteName>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+            <Required>True</Required>
+        </DeployFile>
+        <DeployFile Include="Icon\96.png" Condition="'$(Config)'=='Release'">
+            <RemoteDir>SnowCraft\res\drawable-xhdpi\</RemoteDir>
+            <RemoteName>ic_launcher.png</RemoteName>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+        </DeployFile>
+        <DeployFile Include="res\splash.png">
+            <RemoteDir>SnowCraft\res\drawable\</RemoteDir>
+            <RemoteName>splash.png</RemoteName>
+            <Operation>0</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+        </DeployFile>
+        <DeployFile Include="Android\Debug\AndroidManifest.xml" Condition="'$(Config)'=='Debug'">
+            <RemoteDir>SnowCraft\</RemoteDir>
+            <RemoteName>AndroidManifest.xml</RemoteName>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+        </DeployFile>
+        <DeployFile Include="c:\program files (x86)\embarcadero\rad studio\12.0\lib\android\debug\classes.dex" Condition="'$(Config)'=='Release'">
+            <RemoteDir>SnowCraft\classes\</RemoteDir>
+            <RemoteName>classes.dex</RemoteName>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+        </DeployFile>
+        <DeployFile Include="Icon\36.png" Condition="'$(Config)'=='Release'">
+            <RemoteDir>SnowCraft\res\drawable-ldpi\</RemoteDir>
+            <RemoteName>ic_launcher.png</RemoteName>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+        </DeployFile>
+        <DeployFile Include="Icon\144.png" Condition="'$(Config)'=='Release'">
+            <RemoteDir>SnowCraft\res\drawable-xxhdpi\</RemoteDir>
+            <RemoteName>ic_launcher.png</RemoteName>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+        </DeployFile>
+        <DeployFile Include="Icon\72.png" Condition="'$(Config)'=='Release'">
+            <RemoteDir>SnowCraft\res\drawable-hdpi\</RemoteDir>
+            <RemoteName>ic_launcher.png</RemoteName>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+        </DeployFile>
+        <DeployFile Include="Icon\48.png" Condition="'$(Config)'=='Release'">
+            <RemoteDir>SnowCraft\res\drawable-mdpi\</RemoteDir>
+            <RemoteName>ic_launcher.png</RemoteName>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+        </DeployFile>
+        <DeployFile Include="Android\Release\AndroidManifest.xml" Condition="'$(Config)'=='Release'">
+            <RemoteDir>SnowCraft\</RemoteDir>
+            <RemoteName>AndroidManifest.xml</RemoteName>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+        </DeployFile>
+        <DeployFile Include="C:\Users\Public\Documents\RAD Studio\12.0\PlatformSDKs\android-ndk-r8e\prebuilt\android-arm\gdbserver\gdbserver" Condition="'$(Config)'=='Release'">
+            <RemoteDir>SnowCraft\library\lib\armeabi\</RemoteDir>
+            <RemoteName>gdbserver</RemoteName>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+        </DeployFile>
+    </ItemGroup>
+    <ItemGroup Condition="'$(Platform)'=='iOSDevice'"/>
+    <ItemGroup Condition="'$(Platform)'=='Win32'"/>
+    <ItemGroup Condition="'$(Platform)'=='OSX32'">
+        <DeployFile Include="$(BDS)\Redist\osx32\libcgunwind.1.0.dylib">
+            <RemoteDir>SnowCraft.app\Contents\MacOS\</RemoteDir>
+            <RemoteName>libcgunwind.1.0.dylib</RemoteName>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+        </DeployFile>
+    </ItemGroup>
+    <ItemGroup Condition="'$(Platform)'=='Win64'"/>
+    <ItemGroup Condition="'$(Platform)'=='iOSSimulator'">
+        <DeployFile Include="$(BDS)\Redist\osx32\libcgunwind.1.0.dylib">
+            <RemoteDir>SnowCraft.app\</RemoteDir>
+            <RemoteName>libcgunwind.1.0.dylib</RemoteName>
+            <Operation>1</Operation>
+            <LocalCommand/>
+            <RemoteCommand/>
+        </DeployFile>
+    </ItemGroup>
+</Project>

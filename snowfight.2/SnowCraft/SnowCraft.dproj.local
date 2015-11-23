@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.610,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\start.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.950,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\oops4.wav</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.099,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\oops1.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.106,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\oops4.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.607,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\oops4.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.115,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\start.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.598,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\oops1.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.093,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\foot.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.593,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\foot.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.097,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\newstage.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.401,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\Data.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.101,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\oops2.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.601,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\oops2.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.148,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.940,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\newstage.wav</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.112,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\shoot2.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.956,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\shoot2.wav</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.938,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\gameover.wav</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.954,D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\Unit1.pas=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\Sound.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.946,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\shoot2.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.196,D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\Main_Frm.pas=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.104,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\oops3.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.604,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\oops3.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.196,D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\Main_Frm.fmx=D:\My Documents\RAD Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.959,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\start.wav</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.953,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\shoot1.wav</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.596,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\newstage.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.436,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.727,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.709,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.627,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.039,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.944,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.770,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.558,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.095,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\gameover.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.039,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\gameover.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.736,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.394,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.849,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.936,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\foot.wav</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.986,D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\SnowWars.dproj=D:\My Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.753,D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\SnowWars.dproj=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\SnowCraft.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.109,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\shoot1.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.937,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\shoot1.mp3</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.945,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\oops2.wav</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.948,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\oops3.wav</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.217,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.465,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.743,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.942,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\res\oops1.wav</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.089,=D:\My Documents\My Delphis\Delphi XE5\작업\Snow Craft\Engine.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.894,=D:\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<MobileDevice>015d4906be47f60f</MobileDevice>
+</BorlandProject>
