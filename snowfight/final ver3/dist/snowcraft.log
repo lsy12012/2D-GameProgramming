@@ -25,10 +25,3 @@ Traceback (most recent call last):
   File "C:\Python34\lib\site-packages\pico2d.py", line 272, in load_image
     raise IOError
 OSError
-Traceback (most recent call last):
-  File "mygame.py", line 13, in <module>
-  File "E:\2d\snowfight .1\game_framework.py", line 87, in run
-  File "E:\2d\snowfight .1\start_state.py", line 14, in enter
-  File "C:\Python34\lib\site-packages\pico2d.py", line 272, in load_image
-    
-OSError
